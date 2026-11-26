@@ -1,0 +1,3 @@
+Multi Marketings,5000,2026-11-26
+ABC Traders,12000,2026-11-27
+XYZ Supplies,60000,2026-11-28

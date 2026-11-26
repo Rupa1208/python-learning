@@ -1,0 +1,4 @@
+Multi Marketings - 5000.0 - 2026-11-26 - Normal - auto approve
+ABC Traders - 12000.0 - 2026-11-27 - High value - needs review
+XYZ Supplies - 60000.0 - 2026-11-28 - Very high value - needs director approval
+Total = 77000.0
